@@ -1,11 +1,7 @@
-# Vue 95 
+# Win 95 by Vue
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 Recreation of the Windows 95 Operating System built with Vue 3 JS.
-
-
-## Demo
-[https://johnuberbacher.com/vue95](https://johnuberbacher.com/vue95)
 
 
 ## Screenshots
